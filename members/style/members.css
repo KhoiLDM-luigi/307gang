@@ -1,6 +1,9 @@
 .tableofcontent {
     padding: 0 100px;
     margin-top: 10px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 th {
@@ -18,6 +21,15 @@ td {
 }
 
 .buttonToHomePage {
+    position: relative;
     padding: 0 200px;
     margin-top: 10px;
+    text-align: center;
+}
+
+.member-image{
+    position: relative;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
