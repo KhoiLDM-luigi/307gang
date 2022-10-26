@@ -1,12 +1,18 @@
-h{  
+h {
     display: block;
     text-align: center;
+    font-size: xx-large;
+    font-weight: bold;
+    color: red;
 }
-img{
+
+img {
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
-p{
+
+p {
     text-align: center;
+    font-size: large;
 }
